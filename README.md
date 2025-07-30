@@ -58,7 +58,7 @@ Interactive visualizations created in **Tableau** allow stakeholders—including
 - **GAURAV SUTAR**  
   * Data Collection· Data Preparation · Performance Testing ·Project Design ·*
 
-  *Requirement Analysis · Project Executable Files · Documentation & Demo · Visualization for Scenario 2 & 3 · Dash Board Creation · Story Devlopment*
+  * Requirement Analysis · Project Executable Files · Documentation & Demo · Visualization for Scenario 2 & 3 · Dash Board Creation · Story Devlopment*
 
 - **PARTH SHINGE**  
   * Ideation Phase· Project Planning Phase · Visualization for Scenario 4 *
