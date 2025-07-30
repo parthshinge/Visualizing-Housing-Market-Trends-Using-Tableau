@@ -79,6 +79,8 @@ Interactive visualizations created in **Tableau** allow stakeholders—including
 
 ## 📞 Contact & Connect
 
+- **LinkedIn**: [https://www.linkedin.com/in/fem-charlie-a157b0357]
 - **LinkedIn**: [https://www.linkedin.com/in/parth-shinge-86867522a]
+- **Email**: [Sutargaurav90@gmail.com]
 - **Email**: [Parthshinge@gmail.com]
 
